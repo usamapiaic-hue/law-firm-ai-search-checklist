@@ -1,0 +1,10 @@
+site_name: Law Firm AI Search Visibility Checklist
+site_description: A checklist for getting a law firm found and cited by ChatGPT, Google AI Overviews and other AI search tools, by Legal Web Agency.
+site_author: Legal Web Agency
+site_url: https://law-firm-ai-search-checklist.readthedocs.io/
+theme:
+  name: readthedocs
+nav:
+  - AI visibility checklist: index.md
+markdown_extensions:
+  - tables
